@@ -87,11 +87,3 @@ Developed by [P.Raja Ram]
 
 
 ---
-
-### ✅ What to Do Next:
-- Replace `your-username`, `your.email@example.com`, and image links with your actual info.
-- Upload screenshots in `static/images/screenshots/`.
-- Customize license if you're using something other than MIT.
-
-Would you like me to export this as a `.md` file or help generate a `requirements.txt` to match your code?
-
